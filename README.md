@@ -1,4 +1,16 @@
-# Germanium
+# My notes. Usaage
+Download binary from "releases"
+
+WSL - drop the germanium binary in `/usr/local/bin/`
+
+CLI command
+```
+./germanium -f Consola --no-window-access-bar --no-line-number  -s bw -o ss3.png javas.js --square -b "#fff" --padding 0
+```
+
+
+
+# OG Readme
 
 Germanium is an alternative to [Carbon](https://github.com/carbon-app/carbon) and [Silicon](https://github.com/Aloxaf/silicon) implemented in Go.
 
